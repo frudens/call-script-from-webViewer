@@ -2,4 +2,4 @@
 
 - https://vimeo.com/836435550
 
-![](./callScriptFromWebViewer.webp "callScriptFromWebViewer")
+[![callScriptFromWebViewer](./callScriptFromWebViewer.webp "callScriptFromWebViewer")](https://vimeo.com/836435550)
